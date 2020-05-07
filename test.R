@@ -1,19 +1,6 @@
 #hello world
 
-#this is branch1
-=======
-#this is the master branch
+1
 
-#branch1
-#can I rebase now
-
-
-#try it
-
-
-#another commit
-
-#help
-#please work
 
 
